@@ -9,7 +9,6 @@ A few initial thoughts - I don't want to make it too mechanical. I had an idea t
 
 
 
-
 # 16/5/25 
 A few really inspiring days at A MAZE 25 in Berlin. I am literally in my hotel rooms between sessions and just writing some start to this process.
 A highlight has been meeting and learning more from Pippin about his design process, and how it materialises insights about design in a compelling way. Pippin's approach uses github and commit messages as a way to document the process, but also as a point of thinking from within.
