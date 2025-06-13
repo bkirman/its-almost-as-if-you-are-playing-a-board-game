@@ -1,3 +1,10 @@
+# 13/6/25
+Having little bits of reflection while looking at Suzanne Treister's work on fictional video games, and Vermis, about how this "pretending" works. One thing is that Pippin's "...doing paperwork" is quite playful and a bit more gamelike than some of the others. but also the tone of paperwork is quite serious and not "silly", so maybe it is the setting - at amaze they had these amazing stamps and stationery to play with. Where "making love" and "doing work" are much more game-y and silly in presentation and interactions. "doing work" especially.
+Basically, there is a line where it becomes just a game of its own rather than a performance or a feeling of pretend. 
+"...playing chess", and "...on your phone" feel much more performative, and part of that to me is the presentation. quite direct and serious instruction. For "board game" I wonder if that is important too - should this be _boring_ for the players. I don't want them to accidentally have fun, I just want it to look like they are having fun.
+
+Also had an idea that tickled me which is to run a blind public playtest (maybe even at UK games expo), adding a meta "its as if you are designing a game".
+
 # 21/5/25
 Now on the train back from British DiGRA at Birmingham City University. Another interesting few days and actually really fun thinking about "britishness" with others. For me it resonated because talking about silliness, irreverence and sort of cheeky design (as opposed to being too earnest) being common in games, and games media in the UK from the 80's to today, connects with the "It is as if" games, which are sort of funny performance art pieces that make you smile.
 
@@ -7,6 +14,7 @@ Watching people play I've started a document with a list of potential instructio
 
 A few initial thoughts - I don't want to make it too mechanical. I had an idea to have a card that allowed you to interrupt another player and end their turn but this feels too much like a game. There shouldn't be any meaningful mechanical interaction.
 
+Feel like it might be a good idea to weight the weirder ones, or include more generic movements. Check how Pippin deals with prompt landscape?
 
 
 # 16/5/25 
