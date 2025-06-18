@@ -1,3 +1,9 @@
+# 18/6/25
+Playing board games last night and overhearing explanations was fun. "Put three blueberries on the blueberry track, advance the hazelnut and then sum the value of two dice", said as one might explain how to assemble flatpack furniture. It feels too silly to be real, in a weird way though. 
+The silliness is something I'm resisting. It is the sort of thing I'd go overboard in trying to make it funny. For example having people pick words, or make each other say things. 
+Similarly trying to not make it too gamey as mentioned before. I think all the cards should be different, even though my game design senses are saying to duplicate cards, or mirror effects. 
+So how many cards? 52?
+
 # 13/6/25
 Having little bits of reflection while looking at Suzanne Treister's work on fictional video games, and Vermis, about how this "pretending" works. One thing is that Pippin's "...doing paperwork" is quite playful and a bit more gamelike than some of the others. but also the tone of paperwork is quite serious and not "silly", so maybe it is the setting - at amaze they had these amazing stamps and stationery to play with. Where "making love" and "doing work" are much more game-y and silly in presentation and interactions. "doing work" especially.
 Basically, there is a line where it becomes just a game of its own rather than a performance or a feeling of pretend. 

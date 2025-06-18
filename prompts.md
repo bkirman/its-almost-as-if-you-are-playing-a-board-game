@@ -12,3 +12,7 @@ Look at the previous player and say "why would you do that?"
 Chuckle to yourself and move any piece
 Rotate a piece 90 degrees on any axis
 Move any piece off the board and put it in front of you
+Read aloud: "Play this card and advance two spaces on the leaf track"
+Use a pen to draw a 3x5 grid and put a number in each space
+Scowl and use your phone torch to look closely at a part of the board.
+Pick up all the pieces of a single type (colour/shape?) and put them somewhere else.
