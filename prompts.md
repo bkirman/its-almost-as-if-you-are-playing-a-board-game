@@ -16,3 +16,4 @@ Read aloud: "Play this card and advance two spaces on the leaf track"
 Use a pen to draw a 3x5 grid and put a number in each space
 Scowl and use your phone torch to look closely at a part of the board.
 Pick up all the pieces of a single type (colour/shape?) and put them somewhere else.
+Open the box and rummage around inside for a few seconds as if looking for something.

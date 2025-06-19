@@ -1,3 +1,7 @@
+# 19/6/25
+Was thinking about the final presentation of the game. I like that it could just be game-esque things rather than specific components. Thinking about how game pieces are just chunks of abstracted wood and card. A magazine serves as the rulebook.
+And for the game box - the box itself is part of the "act" of the game. People look at the box art, and back, there is a ritual in opening it (and box farts). But I don't really want to make a box, that feels too direct. Maybe a sleeve for a standard box size? Or just a 3d picture of a box? Maybe something about the IKEA KALLAX shelve sizing that has affected game boxes?
+
 # 18/6/25
 Playing board games last night and overhearing explanations was fun. "Put three blueberries on the blueberry track, advance the hazelnut and then sum the value of two dice", said as one might explain how to assemble flatpack furniture. It feels too silly to be real, in a weird way though. 
 The silliness is something I'm resisting. It is the sort of thing I'd go overboard in trying to make it funny. For example having people pick words, or make each other say things. 
