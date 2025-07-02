@@ -1,11 +1,19 @@
 # 2/7/25
 Again thinking about presentation, and the board and pieces specifically. My initial idea was that it could just be an ordnance survey map or something, with random components.
 I think this can work but my reasoning is that I do not want it to be too "gamey". What I mean is that there is certain legibility from someone who plays a lot of board games. we understand hexes, cubes etc and they have implications around representation of space, and tracking statistics respectively. 
-Sideways to this is thinking about City of Six moons and a conversation with Doruk - the game is an alien artefact but it still uses the grammar of board games. Cards can be shuffled, pieces go on spaces, a rulebook exists, etc etc. I don't know if the game subverts this at all - I should spoil it for myself - but it kind of bugs me that it is a human perspective of what an alien game would look like. I think there are very real, understandable, and probably intentional practical reasons for this - shipping a bag of slime and calling it a board game would be just to abstract, so I get why six moons looks the way it does. But it feels a bit like "robots are human shaped" as far as speculative fiction goes. Reminds me a little of the dog internet (obviously!) in that our imagination of the "other" stops at anthropocentric/selfish assumptions.
+Sideways to this is thinking about City of Six moons and a conversation with Doruk - the game is an alien artefact but it still uses the grammar of board games. Cards can be shuffled, pieces go on spaces, a rulebook exists, etc etc. I don't know if the game subverts this at all - I should spoil it for myself - but it kind of bugs me that it is a human perspective of what an alien game would look like. I think there are very real, understandable, and probably intentional practical reasons for this - shipping a bag of slime and calling it a board game would be just to abstract, so I get why six moons looks the way it does. But it feels a bit like "robots are human shaped" as far as speculative fiction goes. Reminds me a little of the dog internet (obviously!) in that our imagination of the "other" stops at anthropocentric/selfish assumptions. Again not a critique of Amabel's work, which is uniformly brilliant.
 
 So for my game, it is for the spectator so the pieces should not carry or imply meaning for the players. They should give the appearance of meaning from outside (i.e. non game player) but carry no intrinsic meaning within. I might ask that question to players in a playtest. "if you saw this collection of material as a game, can you guess at the rules?"
 
 At the back of my mind is the clip from parks and rec(i think?) about "cones of dunshire". but thats a fictional real game, but also relies on some awareness of game tropes - medieval building, wooden pieces... although cones are not a common piece really. but it does look game-shaped from the outside.
+...
+
+just brushed my teeth and had two further thoughts:
+
+V-Effekt (where have i been reading about that recently? amabels book i think?) - alienation of the players in "its as if" games more generally. How can I make my "players" feel alienated from the activity and the game and reflect on their position as players.
+
+Numberwang - "it's as if you were playing a game show" basically
+
 
 # 19/6/25
 Was thinking about the final presentation of the game. I like that it could just be game-esque things rather than specific components. Thinking about how game pieces are just chunks of abstracted wood and card. A magazine serves as the rulebook.
