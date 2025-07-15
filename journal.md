@@ -1,3 +1,28 @@
+# 15/7/25
+Thinking about the board, and how to handle this problem of legibility. 
+
+I want spectators to notice that they are playing a game (so, tracks? visible spaces and structure?) but for that on closer inspection that there be no meaning there.
+
+The immediate thought is some kind of optical illusion - spaces that turn into negative spaces, or things that don't line up. 
+
+But also it should frustrate anyone looking for meaning - it should be functionally impossible to people to "move 3 spaces" or whatever. 
+
+The big risk here is the board becomes "artwork" and takes attention. This is ok, in a "sharing on social media and maybe getting some press" but it means a) effort, and b) compromising a bit on my "usual" half-baked and thrown together aesthetic.
+
+I've been looking at Escher, and things like the Penrose triangle, but these are very much too "on the nose". Maybe something paradeoilia (sp?) like the old "dreaming ai" nonsense from a few years ago.
+
+side track here: i wonder how shit LLM AI would be at designing a board game - it is kind of doing a similar thing I am - making something that statistically appears to be a game, but lacks the internal logic either intentionally (in my case) or unintentionally (because AI does not understand systems of rules that are balanced in a game).
+
+Also a note for me - it doesnt have to be big - A3 feels about right. Maybe 4 A5 boards that connect together?
+
+Also a bit worried about cards being already too legible but this is like the only anchor to reality - I need to hold players hands a little bit after all. This links to speculative/critical design stuff really - there's always that anchor to reality that is subverted once you engage.
+
+Related is this art project that created board games that look like games but miss pieces: https://boingboing.net/2014/12/02/a-gallery-of-impossible-board.html
+
+Also inspired by "let's gtfo the earth" which has nice sketchy diagrams. plus the "zine" unfinished/glitched, ambiguous aesthetics. 
+
+This is kind of the opposite of what I want - these imply logic that does not exist. Still very cool and definitely relevant though. 
+
 # 2/7/25
 Again thinking about presentation, and the board and pieces specifically. My initial idea was that it could just be an ordnance survey map or something, with random components.
 I think this can work but my reasoning is that I do not want it to be too "gamey". What I mean is that there is certain legibility from someone who plays a lot of board games. we understand hexes, cubes etc and they have implications around representation of space, and tracking statistics respectively. 
