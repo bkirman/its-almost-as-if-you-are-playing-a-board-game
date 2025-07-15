@@ -19,9 +19,19 @@ Also a bit worried about cards being already too legible but this is like the on
 
 Related is this art project that created board games that look like games but miss pieces: https://boingboing.net/2014/12/02/a-gallery-of-impossible-board.html
 
-Also inspired by "let's gtfo the earth" which has nice sketchy diagrams. plus the "zine" unfinished/glitched, ambiguous aesthetics. 
+
 
 This is kind of the opposite of what I want - these imply logic that does not exist. Still very cool and definitely relevant though. 
+
+Also inspired by "let's gtfo the earth" which has nice sketchy diagrams. plus the "zine" unfinished/glitched, ambiguous aesthetics. 
+
+Looking at BGG pages of games in play. https://boardgamegeek.com/images/boardgame/all?sort=recent&gallery=game&tag=Play&page=4
+
+I think the reality is boardgames look quite diverse, but that's a reality and not playing to our assumptions, and in this game I want assumptions.
+"Mousquetaires du Roy" is a hood example of just an incredibly generic board.
+
+Also started thinking about the rules but half a mind to just not give any rules at all and let them look for it.
+Maybe just a double sheet of paper that says "stare at this section for 10 seconds. then stare at the section opposite...
 
 # 2/7/25
 Again thinking about presentation, and the board and pieces specifically. My initial idea was that it could just be an ordnance survey map or something, with random components.
