@@ -1,3 +1,20 @@
+# 18/7/25
+
+After chatting briefly to Doruk about the thinking around the board, it was nice to "get it out" and talk to someone who understands the "why" of what I'm attempting to do here.
+
+One route is to custom make a complex board that can't be "understood", by having tracks that lead nowhere, inconsistent iconography, etc. My worry is that this becomes a bit contrived (as well as being hard work), and a bit too snarky in a way? It also becomes "art" in that I'm being super careful of the details and craft of the thing. The opposite to this is that it being "empty" appeals more somehow - like there shouldn't be a *purpose* to the careful intentional design of lack of meaning. There should be a natural void of meaning. No clever "i see what you did there" optical illusion stuff, just a flat illegibility.
+
+Accordingly I was searching around for images of medieval scenes and castles, as a generic board game vibe, and found myself on wikimedia looking at 18th century maps (AGAIN). I've uploaded a French map of the caspian sea from 1745 that appealed.
+
+What I like: It looks like what it is, but this visual aesthetic has been used in plenty of games so it becomes kind of cyclical in that we expect this to be representational of game space but it hasn't gone through any of that process. Second, its a bit unfamiliar and this section of the caspian sea doesn't immediately have recall (for me and my context), so it feels somehow unknown. 
+Third, it has these nice box out sections with smaller zoomed in maps (for navigating the channels?) that echoes how board games have box outs for different tracks. Lastly it has loads of lines and numbers everywhere, which imply tracks, but don't imply sailing routes (like it has weird lines that just traverse the sea without obvious purpose). It is also public domain, in high resolution, and not actually used anywhere on Wikipedia.
+
+See also: https://commons.wikimedia.org/wiki/Category:Maps_of_fictional_places_or_locations
+
+Lots of these have like regions and boundaries, but they feel a bit *too* map-like almost, like it implies a reading that is around politics, area control etc. Also, these are maps that are made to look like maps, as a reflection of aesthetic for telling a story (or whatever). A real map is just itself, and being used out of context feels better, than using a storytelling tool to help tell a different story (recognising all maps are stories).
+
+Another reflection is that I quite like how the rules are going. like the game starts immediately with the rulebook, just like a real game.
+
 # 15/7/25
 Thinking about the board, and how to handle this problem of legibility. 
 
