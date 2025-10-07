@@ -20,3 +20,4 @@ Open the box and rummage around inside for a few seconds as if looking for somet
 Say "Let's make this interesting" and confidently move a piece anywhere
 Say "Hmm, is that resolved during upkeep or cleanup?"
 Roll a bunch of dice and separate them into 2 or more groups.
+Use your phone flashlight and peer closely at something.

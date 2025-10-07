@@ -1,3 +1,23 @@
+
+# 7/10/25
+A note I left for myself: Defamiliarisation (schlovsky?) and alienation.
+
+That's a good note. Maybe Pippin already wrote about this but Verfremdungseffekt (sp?) being the goal here - I mentioned it a while back in this journal. 
+It is about doing a performance, and reflecting on the motions from within the scene of - ultimately - sitting at a table moving bits of wood and cardboard around a table. But the audience are also the actors here. Passersby are of no relevance in themselves, since it just looks like a game to them. The aim is not to convince the passersby, it is about performing. In my head I make a side connection to notions of "masking" and "passing" from neurodiverse and LGBT+ communities but cannot speak to them, just that this kind of idea of "fitting" and being unnoticed is not an uncommon experience, and should not be trivialised or made fun of since it has very real and sometimes hurtful implications to many people. This is not a game about that, but I should bear in mind if I made that naive connection, it might be "read" that way.
+
+On which, it is a silly game but not a comedy game. This is a hard balance for me and I keep editing the rules to change jokes. I'm not writing a comedy sketch and often that creeps in.
+
+I'm also thinking about pieces. I just have a bunch of cubes and dice, and cards, is there reasoning to this? Again to legibility, should there be a structure to this. If I give a set of dice and cubes of different colours the implication might be there is one colour per player. This is something that happens a lot in real board games like Chicago Express - players immediately "help" by taking a colour for themself.
+
+Is that ok or do I want to undermine this and how?
+
+Should they all be legible game pieces or should they be somehow surprising?
+
+I have an idea to 3d print a set of dice where each dice has just the same number on - like a d6 that is all 1's. That seems quite good to me - it implies utility, reads like a dice from distance, but it has no utility.
+
+I also have a note to make a BGG page, which again is a good thing about legibility - the game "exists" in the database, and also can therefore be pulled in by apps like BGStats. So people can log plays etc. But that means I need a logo, a box front, and some blurb.
+
+
 # 18/7/25
 
 After chatting briefly to Doruk about the thinking around the board, it was nice to "get it out" and talk to someone who understands the "why" of what I'm attempting to do here.
