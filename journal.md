@@ -1,3 +1,8 @@
+# 8/10/25
+hot dang it. I made the fucking dice. It just got stuck in my head and made for a nice mini project. Which I then took far too far, by making the entire set, and then 3d printing various versions, and putting it all on itch. https://benkirman.itch.io/mean-dice
+
+part of it is that stewart lee thing of leaning really hard into a trivial and stupid idea, it is appealing and its the "going too far" that makes it funnier. it could have just been a tweet.
+
 
 # 7/10/25
 A note I left for myself: Defamiliarisation (schlovsky?) and alienation.
