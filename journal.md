@@ -1,3 +1,10 @@
+# 9/10/25
+Reflecting last night on "going too far" - I think I'm probably thinking too hard about this project? It is just a silly idea, a "go" with MDM, that isn't meant to be some kind of long lasting impactful thing. Like I spent a few hours looking at renaissance paintings looking for the exact vibe for the front of the box, but why? what does that gain? Knowing when its "enough" is tricky, because I am often very lazy about these details, but for some reason in this project I'm spending a lot of effort thinking about the legibility of every tiny detail. Maybe it is the nature of trying that means I'm resisting urges to "fuck it, ship it". 
+
+Maybe I'm not lazy about details? is that an insight? that actually I think that but it isn't the case? Like obsessing over getting the right test tubes and clips for the dog kennel, but then not caring that the dog is just an ikea one, or that the varnish doesn't match quite right. Rather - I do care and notice but decided to stop.
+
+I should make a prototype soon, and force those decisions to happen.
+
 # 8/10/25
 hot dang it. I made the fucking dice. It just got stuck in my head and made for a nice mini project. Which I then took far too far, by making the entire set, and then 3d printing various versions, and putting it all on itch. https://benkirman.itch.io/mean-dice
 
