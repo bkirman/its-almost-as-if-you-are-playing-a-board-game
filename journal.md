@@ -1,15 +1,27 @@
+# 13/2/26
+A bit of self doubt that the prompts are too much "acting", so added a bunch of more mundane ones about moving pieces around the board. This feels a bit too gamey, like I'm balancing it, but weirdly I'm balancing behaviours. It actually needs to be a bit more boring - I'm worried that funny cards means people just read them out to each other. I need to playtest really and get a sense for how it looks.
+
+I started testing making cards. i was thinking of hand writing them, but then we have this mini receipt printer that can make stickers, so a good opportunity to use that. It has a weird vibe and I like that it is "torn". I spent ages trying to get my computer to print over bluetooth, but eventually just tried taking a photo of the screen and printing directly from the horrible app the printer came with. It gives a bit of interesting depth and texture to the image (thermal printed image of a photograph of a screen showing a sticker).
+It feels a bit more "arty" in a funny way. There's an implication of more depth that I like
+
 # 5/2/26
 So, "lol" on the just making a prototype. I still think that's the next step but finding the space to dedicate consistently to the thinkin'
 
 Also made a mistake in formatting the computer that had all the research images on. Now i have to look at renaissance pictures of cats for hours again.
 
-The thing about the box is, that it would be a good use case for an LLM halloucinated image. What I'm after is something that "approximates" but isn't actually a real thing. I could make that case, but the whole thing is poison - it is approximating based on theft of images, but that's not right.
+The thing about the box is, that it would be a good use case for an LLM hallucinated image. What I'm after is something that "approximates" but isn't actually a real thing. I could make that case, but the whole thing is poison - it is approximating based on theft of images, but that's not right.
 
 The issue with images is not choosing something that contains too much meaning. Like it should seem like a box cover at a distance (and old artworks already do carry that vibe just from history of illustrated board game boxes) but it should not imply content too much. For example most surviving renaissance art is religious, or tied to religion in a way that carries too much meaning. Or, there are racist cariacatures of a sort that do crop up in games - orientalist style exotica.
 
 There's a tension in the box design because graphic design has really improved loads in the past few years. Flip 7, Magical Athlete really stand out as bold game boxes. There's still a lot of lads on hillsides and castles, so I'm not too late for something like that.
 
-The other thing is - I was thinking about the sides of the box and the back. But do I want it to be in a box? maybe I do simply for storage? I was thinking to use an old game box, but again, it feels like something I should work harder on?
+The other thing is - I was thinking about the sides of the box and the back. But do I want it to be in a box? maybe I do simply for storage? I was thinking to use an old game box, but again, it feels like something I should work harder on? Is it the box that makes it a board game? I think it might be - those baggy games "don't count" somehow.
+
+The main box image is by Walter Crane from a copy of Beauty and the Beast from the 1890's: https://archive.org/details/beautybeast00cran
+
+https://www.oldbookillustrations.com/illustrations/hideous-beast/
+
+I have used the word "adesign by benk" with intention to highlight this is kind of undesigned, but also ambiguous (it is designed). feelin a wee bit pretentious but also recognising i need to get this onto BGG so it has to be read as a game
 
 # 9/10/25
 Reflecting last night on "going too far" - I think I'm probably thinking too hard about this project? It is just a silly idea, a "go" with MDM, that isn't meant to be some kind of long lasting impactful thing. Like I spent a few hours looking at renaissance paintings looking for the exact vibe for the front of the box, but why? what does that gain? Knowing when its "enough" is tricky, because I am often very lazy about these details, but for some reason in this project I'm spending a lot of effort thinking about the legibility of every tiny detail. Maybe it is the nature of trying that means I'm resisting urges to "fuck it, ship it". 
