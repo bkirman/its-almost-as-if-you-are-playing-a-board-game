@@ -13,7 +13,6 @@ Chuckle to yourself and move any piece
 Rotate a piece 90 degrees on any axis
 Move any piece off the board and put it in front of you
 Read aloud: "Play this card and advance two spaces on any track"
-Use a pen to draw a 3x5 grid and put a number in each space
 Scowl and use your phone torch to look closely at a part of the board.
 Pick up all the pieces of a single type (colour/shape?) and put them somewhere else.
 Open the box and rummage around inside for a few seconds as if looking for something.
@@ -35,7 +34,7 @@ draw the top 5 cards of the deck, and put them somewhere else.
 If there are any cards face up, move them
 Roll some dice, have fun with it
 Roll one dice and move some pieces
-Roll a dice onto the board and say "oops" if it hits anything
+Roll a dice onto the board and say "oops" 
 Make a little tower out of some pieces
 Divide a group of pieces into four smaller groups.
 Move some pieces.

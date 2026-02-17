@@ -1,3 +1,15 @@
+# 16/2/26
+More box art (there is a paper deadline this week that's why im procrastinating)
+
+This lad riding a goat, by the Dalziel brothers. Sick. https://www.oldbookillustrations.com/illustrations/riding-goat/
+and this sinister fella having his teeth worked on in a 1912 illustration for german dentists: https://www.oldbookillustrations.com/illustrations/rubber-dam-lower-incisors/ 
+
+and this boss cat for the rulebook, from P Guillaume: https://www.oldbookillustrations.com/illustrations/puss-grand/
+
+
+# 15/2/26
+Made the cards. Used a rubber stamp on the back of a deer and a flower. It looks sinister in a nice way. It feels like I'm playing "almost as if you are an artist" with the wankery now.
+
 # 13/2/26
 A bit of self doubt that the prompts are too much "acting", so added a bunch of more mundane ones about moving pieces around the board. This feels a bit too gamey, like I'm balancing it, but weirdly I'm balancing behaviours. It actually needs to be a bit more boring - I'm worried that funny cards means people just read them out to each other. I need to playtest really and get a sense for how it looks.
 
