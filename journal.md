@@ -1,3 +1,33 @@
+# 26/2/26
+A flurry of activity - I submitted the game to BGG last night and it was approved pretty quickly: https://boardgamegeek.com/boardgame/465753/its-almost-as-if-you-are-playing-a-board-game
+
+This meant I had to write the blurb.md doc, and take some photos (in /images) to go on the site. Suddenly it is real and it is odd that BGG marks a major milestone for me in that now _it is a game_, and people can own it, rate it and log it.
+
+Until BGG removes it? maybe? but again the point is not to trick BGG - It *is* a game, its just a very odd one. I'm not celebrating sneaking it into the database, I'm celebrating being almost done, and the project having enough shape to it to be considered "officially a game".
+
+I need to write a context document, to go on the website. I also need to do the work of meta-reflection of all these notes, and MDM proper. I feel like actually the journalling has been more productive for me, but a lot of that is that I'm not writing code - I'm dicking around in Affinity editing logos, or printing stickers, collecting bits, etc. The insight within the commit messages is almost completely absent. There's nowhere to add comments.
+
+I obviously also have an obsidian document I've been adding notes to, despite wanting to commit to MDM. I've found the "public" bit of publishing raw reflections on github a bit uncomfortable at moments. Mainly I'm overthinking this writing, which should be more loose. Basically always questioning: Is this clever enough? is this actually insight? but also: this makes me feel like a complete academic wanker, this is too earnest and too arty.
+
+# 25/2/26
+
+I have printed and made the game, which is an important step towards getting it "recognised" as a game by BGG. This is an interesting process. See the criteria here: https://boardgamegeek.com/wiki/page/Game_Criteria
+
+- "there should be rules that structure the game, and that indicate when the a player (or team) has won the game"
+- "The game requires some sort of components to play"
+- "To be considered a board game, a game must be playable on a tabletop, or failing that, within a room"
+- "The game should be easily portable"
+
+This game hits them all, but the first one is problematic. This game is all "structure" in a sense. I don't have a win condition but I could add one "the winner is the winner", but also, there are implied win conditions - "successfully perform the game". Yet there is the guidance: "If a structured activity has clear winning and losing conditions, and a clear ending, then it is in scope. " and explicitly "structured activities do not have conditions for winning and losing. Often, they also lack a clear end, continuing for as long as the players want to continue. Such activities are out of scope"
+
+I chuckle to think of the nightmare this policy is to write, given games like Nomic and Mao are in the database.
+
+But I need to be strategic - is it more important that there is no win condition, or that the game "exists" in BGG. I think the latter probably. By being in BGG it is pulled into BGStats, and becomes "real".
+
+Check out this list of games that have since been declared "not board games": https://boardgamegeek.com/boardgamefamily/49282/admin-outside-the-scope-of-bgg/linkeditems/boardgamefamily
+
+I'm struggling to imagine the admins will allow my game in - hopefully the fact that I already have other games in the database will help, and I don't want to "lie" about what the game is. 
+
 # 16/2/26
 More box art (there is a paper deadline this week that's why im procrastinating)
 
