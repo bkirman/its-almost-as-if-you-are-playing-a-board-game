@@ -1,3 +1,15 @@
+# 3/3/26
+I made a page for my website, and then didn't realise that the way I set up github automations meant that I "soft launched" the game before I was ready. My main panic was because it mentions Pippin that he'd get some kind of google alert and be caught off guard. I should have emailed him ages ago but it forced my hand. Thankfully Pippin was understanding and kind, that's a huge relief honestly.
+
+I further edited the website: I added a FAQ? Just to clarify a few things because I think that I need to be explicit (and not hide it in this journal). Especially that this is not a "joke" and not "art" (in that way) or "satire".
+I am curious what other people will think of it - everyone I know, who I mention the game to, is like "obviously", or gives that knowing nod that bens up to his bullshit again. So people who are familiar with my work will be at home, but now its on bgg it *might* break containment a bit, and the FAQ is a reaction to that I think.
+
+I'm particularly worried about it being taken as a "joke". It's making me anxious and I'm not really sure why. Because that seems like a valid interpretation, but also I worked quite hard to remove the jokes? Like a simpler version of this game would just be "look at all the funny things you do when playing board games" and be a cariacature. But to me it feels a bit more developed than that. I spent time balancing the cards and editing phrasing. I fucking agonised over the board for days to get the balance of game legibility just right. I'm very ok with it being funny, but I worry that it might be dismissed as "a joke" as it might also be dismissed as an "art project".
+
+Also keep deleting the line from the intro that is "like an alien touching wood for the first time". Again I like the framing of this as alien, and the double entendre, but does it step over into joke?
+
+I also dreamed about the game last night, and was sure I had some golden insight that brought it all together. I remember dreaming "I should write this down because it can go in the journal" and obviously forgot every other detail apart from the need to write it down.
+
 # 26/2/26
 A flurry of activity - I submitted the game to BGG last night and it was approved pretty quickly: https://boardgamegeek.com/boardgame/465753/its-almost-as-if-you-are-playing-a-board-game
 

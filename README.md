@@ -2,7 +2,7 @@ Your opponent frowns as you move the cube triumphantly across the board. Maybe t
 
 # It's (almost) as if you are playing a board game
 
-This is a game about the "bits" in games, about collectively summoning worlds and operating them together around a table. It's about feeling the absurdity of moving bits of shiny plastic and wood in very precise and intricate ways on a slab of cardboard. It's about textures, it's about symbols and signs, it's about being an alien touching wood for the first time, and it's about how we play with each other.
+This is a game about the "bits" in games, about collectively summoning worlds and operating them together around a table. It's about feeling the absurdity of moving bits of shiny plastic and wood in very precise and intricate ways on a slab of cardboard. It's about textures, it's about symbols and signs, it's about being an alien touching a for the first time, and it's about how we play with each other.
 
 IAAIYAPABG is an attempt to capture some of this dance, and give a moment to be present and undistracted by the systems and fictions, and think about the performance of playing board games.
 
