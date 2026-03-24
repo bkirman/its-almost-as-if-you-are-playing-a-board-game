@@ -1,3 +1,20 @@
+# 23/3/26
+Showed the game at the school creative practice session and it was nice to talk about practice as method. Richard had some nice insights about the relation to idle games, that are games we don't play at all, and also to RPGs and improvisation - we don't strictly stick to RPG rules and they are there as guidance. Feels part of the mapping in this project, where it sits in a matrix/map of rules/meanings/structure.
+Also challenged on being indecisive and not calling it a game - they are right I should be satisfied that it is indeed a game, and not second guess myself, or apologise in advance for problems that i am imagining. Good point.
+A useful discussion also that projects don't need to be published papers, but that a "tweet" is enough. The thing exists, here it is.
+
+I also noticed the box is getting a bit frayed at the edges but I quite like this developing character. it has been used.
+
+# 22/3/26
+Thinking about the game "Cozy Sitcker Ville" (ew the US spelling of cosy feels really gross for some reason) and materiality and how that relates to my game.
+
+Like, how much is the stickers and the bits leading the game design - a lot and that's not a criticism, just that we already do design around the bits first. Like games with bakelite bits, legacy games that subvert bits by tearing, drawing and altering. How important is the game there, is it just the excuse? something to add conceptual weight to the bits?
+
+There's a distinction in using cool bits in a novel way, and using cool bits because they are cool. Miniatures are cool and well accepted, and often have zero symbolic value to the game. Is my game all miniatures? or is it recognising that cubes are also miniatures, and dice are too.
+
+# 15/3/26
+A good playtest at the local group, in the pub. It was fun to see people actually engage with it and not just treat it like a bit of art or something to be held carefully.
+
 # 3/3/26
 I made a page for my website, and then didn't realise that the way I set up github automations meant that I "soft launched" the game before I was ready. My main panic was because it mentions Pippin that he'd get some kind of google alert and be caught off guard. I should have emailed him ages ago but it forced my hand. Thankfully Pippin was understanding and kind, that's a huge relief honestly.
 
