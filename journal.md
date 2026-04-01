@@ -1,3 +1,10 @@
+# 1/4/26
+Saw some people playing [Tiletum](https://boardgamegeek.com/boardgame/351913/tiletum) at the game group and loved how the board exactly looks like what I imagined for my game. Also the box is medieval lads in a town with cobbled streets and a cathedral. Amazing that these game memes persist unironically. Also Tiletum is a funny nonsense name.
+
+Thinking about colonialism in "almost". There's a lot to say here, and I definitely lean on some tropes - the map of the caspian sea being used as "plaything", considering the geopolitical history of this place (and contemporary Iran). It could be argued that it is critical - saying something about flat/simplistic representations in games. This is semi-intentional looking back at my notes. I didn't want a fictional map because they are already pastiche - that it is an 18th century map repurposed carries a little more bite to it. It's more interesting than making a joke map or an optical illusion. Theres a tension between why such maps were made, and the meanings they contain, and how players reflect on how we use maps in modern games.
+
+Theres a lurking paper/argument about maps in games there, that I'm going to resist digging to much into. It's enough that this is an interesting dimension rather than being a) the point, or b) something I was totally ignorant about.
+
 # 23/3/26
 Showed the game at the school creative practice session and it was nice to talk about practice as method. Richard had some nice insights about the relation to idle games, that are games we don't play at all, and also to RPGs and improvisation - we don't strictly stick to RPG rules and they are there as guidance. Feels part of the mapping in this project, where it sits in a matrix/map of rules/meanings/structure.
 Also challenged on being indecisive and not calling it a game - they are right I should be satisfied that it is indeed a game, and not second guess myself, or apologise in advance for problems that i am imagining. Good point.
